@@ -32,7 +32,7 @@ This project features impressive expressions and concepts from our lessons. This
 `npm i` with concurrently will install on the client and server ends, then `npm run start:dev` to run in develop mode. 
  
 ## Links
-deployed  
+[Deployed heroku app](https://guarded-beach-61916.herokuapp.com/)  
 walk through video   
 
 ## Visuals 
