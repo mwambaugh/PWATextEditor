@@ -35,6 +35,9 @@ This project features impressive expressions and concepts from our lessons. This
 deployed 
 walk through video   
 
+## Visuals 
+[Screenshot of Offline site in `npm run start:dev`](./photos/Screenshot%202023-04-27%20092036.jpg)
+
 ## Contributing 
 This text editor was built with an existing, "starter code" application. This assignment was worked on by student, M.C. Wambaugh, with the support of her TA's during office hours and meeting regularly with a tutor, and her classrom peers. The student also used universial resources such as  YouTube.com, shields.io/, and our class repo examples. Many thanks to those who continue to support learning in the technological community.
 
