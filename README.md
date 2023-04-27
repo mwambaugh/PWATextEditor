@@ -32,7 +32,9 @@
 ## Instalation 
 
  
-## Links  
+## Links
+deployed 
+walk through video   
 
 
 ## Contributing 
