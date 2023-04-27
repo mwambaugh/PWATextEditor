@@ -32,7 +32,7 @@ This project features impressive expressions and concepts from our lessons. This
 `npm i` with concurrently will install on the client and server ends, then `npm run start:dev` to run in develop mode. 
  
 ## Links
-deployed 
+deployed  
 walk through video   
 
 ## Visuals 
