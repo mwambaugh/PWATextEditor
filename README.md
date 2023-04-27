@@ -1,4 +1,4 @@
-# PWATextEditor 
+# Progressive Web Applications (PWA) Challenge: Text Editor
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)]
 
 # Table of Contents 
@@ -26,19 +26,17 @@
 * SO THAT I can reliably retrieve them for later use
 
 ## Usage 
-
-
+This project features impressive expressions and concepts from our lessons. This project is building a  text editor that runs in the browser. This app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. It uses a package called idb, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
 ## Instalation 
-
+`npm i` with concurrently will install on the client and server ends, then `npm run start:dev` to run in develop mode. 
  
 ## Links
 deployed 
 walk through video   
 
-
 ## Contributing 
-This assignment was worked on by student, M.C. Wambaugh, with the support of her TA's during office hours and meeting regularly with a tutor, and her classrom peers. The student also used universial resources such as  YouTube.com, shields.io/, and our class repo examples. Many thanks to those who continue to support learning in the technological community.
+This text editor was built with an existing, "starter code" application. This assignment was worked on by student, M.C. Wambaugh, with the support of her TA's during office hours and meeting regularly with a tutor, and her classrom peers. The student also used universial resources such as  YouTube.com, shields.io/, and our class repo examples. Many thanks to those who continue to support learning in the technological community.
 
 ## Questions 
 Please direct questions to Marta Wambaugh at marwambaugh@gmail.com and https://github.com/mwambaugh 
