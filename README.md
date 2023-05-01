@@ -33,7 +33,7 @@ This project features impressive expressions and concepts from our lessons. This
  
 ## Links
 [Deployed heroku app](https://guarded-beach-61916.herokuapp.com/)  
-walk through video   
+[Walk through video](https://watch.screencastify.com/v/YZ3d8qEmrWZnRJiNvueM)   
 
 ## Visuals 
 [Screenshot of Offline site in `npm run start:dev`](./photos/Screenshot%202023-04-27%20092036.jpg)
